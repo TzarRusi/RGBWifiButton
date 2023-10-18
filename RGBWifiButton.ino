@@ -8,8 +8,8 @@ IRAM_ATTR void isr() {
 #include <WebServer.h>
 
 
-const char* ssid = "5G Tower";
-const char* password = "fKBxxemH";
+const char* ssid = "xxxxxx";
+const char* password = "xxxxxxx";
 
 const byte DNS_PORT = 53;
 const int red_pin = 26;   
