@@ -55,8 +55,8 @@ GTimer_ms alarmTimeout((long)ALARM_TIMEOUT * 1000);
 
 // ***************** ОБЪЕКТЫ И ПЕРЕМЕННЫЕ *********************************************************************************
 
-const char* ssid = "5G Tower";
-const char* password = "fKBxxemH";
+const char* ssid = "xxxxxx";
+const char* password = "xxxxxxx";
 
 uint32_t btnTimer = 0;
 
