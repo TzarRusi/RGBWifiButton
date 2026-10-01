@@ -55,8 +55,9 @@ GTimer_ms alarmTimeout((long)ALARM_TIMEOUT * 1000);
 
 // ***************** ОБЪЕКТЫ И ПЕРЕМЕННЫЕ *********************************************************************************
 
-const char* ssid = "xxxxxx";
-const char* password = "xxxxxxx";
+#include "secrets.h"
+const char* ssid = WIFI_SSID;
+const char* password = WIFI_PASSWORD;
 
 uint32_t btnTimer = 0;
 

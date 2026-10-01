@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="290" viewBox="0 0 1280 290" role="img" aria-label="RGB Wi-Fi Controller">
+<rect width="1280" height="290" rx="18" fill="#101c2c"/>
+<g fill="none" stroke="#233950" stroke-width="2"><path d="M950 0v65l80 80h250M1070 0v44l100 100v146M1280 70h-130l-85 85v135M920 290v-65l-80-80V0"/><circle cx="1030" cy="145" r="7"/><circle cx="920" cy="225" r="7"/></g>
+<path d="M48 72h44" stroke="#dbacff" stroke-width="4"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="108" y="78" fill="#dbacff" font-size="16" letter-spacing="3">CONNECTED DEVICE / 04</text>
+<text x="48" y="140" fill="#f3f6fb" font-size="42" font-weight="700">RGB Wi-Fi Controller</text>
+<text x="48" y="180" fill="#aebed0" font-size="22">Веб-палитра, кнопка и ИК-управление светом</text><text x="48" y="235" fill="#dbacff" font-size="15" letter-spacing="2">ESP32</text><text x="308" y="235" fill="#dbacff" font-size="15" letter-spacing="2">3 × PWM</text><text x="568" y="235" fill="#dbacff" font-size="15" letter-spacing="2">WEB UI</text></g></svg>
